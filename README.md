@@ -31,8 +31,8 @@ Autonomie sur le choix des données à analyser.
 
 ## Livrable
 
-* Notebook contenant la préparation, le nettoyage et l’analyse exploratoire des données.
-* Notebook contenant le/les clusterings effectués, et les différentes visualisations associées.
+* Notebook Jupyter contenant la préparation, le nettoyage et l’analyse exploratoire des données.
+* Notebook Jupyter contenant le/les clusterings effectués, et les différentes visualisations associées.
 * Une présentation du travail réalisé (Powerpoint ou équivalent, maximum 20 slides) :
     - Contexte du projet de data analyse,
     - Démarche (sans entrer dans les détails mathématiques, mais en vulgarisant les sujets abordés),
