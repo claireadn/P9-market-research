@@ -10,8 +10,7 @@ La poule qui chante, une entreprise française d’agroalimentaire qui souhaite 
 
 Objectif : Proposer une première analyse des groupements de pays à cibler pour le lancement à l’international, autrement dit l’exportation de poulets.
 
-Préparer :
-* Si utilisation des critères de l’analyse PESTEL : Récupération des données en open data sur le site de la FAO.
+* Si utilisation des critères de l’analyse PESTEL -> Récupération des données en open data sur le site de la FAO.
 * Tester la classification ascendante hiérarchique avec **un dendogramme.**
 * Utiliser la méthode des **k-means** pour analyser l’analyse et comparer les résultats des deux méthodes de clustering.
 * Analyser les **centroïdes** des classes.
@@ -50,8 +49,7 @@ La poule qui chante, a French food company, is looking to expand internationally
 
 Objective: Propose an initial analysis of country groupings to target for international launch, i.e. chicken exports.
 
-Prepare :
-* If using PESTEL analysis criteria: Retrieve open data from the FAO website.
+* If using PESTEL analysis criteria -> Retrieve open data from the FAO website.
 * Test hierarchical ascending classification with **a dendogram**.
 * Use the **k-means** method to analyze the analysis and compare the results of the two clustering methods.
 * Analyze class **centroids**.
